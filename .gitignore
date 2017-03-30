@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# generated js file
+bundle.js
